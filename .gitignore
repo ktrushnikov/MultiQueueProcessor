@@ -1,0 +1,5 @@
+CMakeCache.txt
+CMakeFiles/*
+Makefile
+MultiQueueProcessor
+cmake_install.cmake
